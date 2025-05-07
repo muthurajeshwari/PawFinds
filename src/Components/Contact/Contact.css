@@ -1,0 +1,68 @@
+.section-heading{
+    color: #FCAE5E;
+    text-align:center;
+}
+.contact{
+    display: flex;
+}
+.form{
+    display: flex;
+
+}
+.btn{
+    background:#FCAE5E;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 40%;
+}
+.contact {
+    display: flex;
+    padding: 10px;
+    padding-left: 100px;
+  }
+  
+  .left {
+    width: 500px;
+  }
+  
+  .pic {
+    width: 350px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 100px;
+  }
+  
+ 
+  .right {
+    padding-top: 100px;
+    width: 500px;
+    padding-right: 100px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    color: #444;
+  }
+  
+  input,
+  textarea {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  

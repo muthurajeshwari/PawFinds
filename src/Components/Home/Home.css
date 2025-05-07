@@ -1,0 +1,90 @@
+.home{
+    display: flex;
+    gap: 60px;
+}
+.left{
+
+    margin-left: 90px;
+    padding-top: 80px;
+  
+
+}
+.left p{
+    margin-top: 20px;
+}
+.left h1{
+    color: #FCAE5E;
+}
+.adopt{
+    background:#FCAE5E;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.mainpic{
+    height: 350px;
+    width: 590px;
+    border-radius: 10px;
+    border: 20px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.works{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+}
+.works h1{
+    color: #FCAE5E;
+
+}
+
+.dos .pic{
+    height: 150px;
+    width: 150px;
+    margin-left: 50px;
+
+}
+.dos h3{
+   padding-left: 100px;
+}
+.dos p{
+    padding-left: 80px;
+}
+
+.doings{
+    padding-top: 70px;   
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+
+}
+.section-heading{
+    color: #FCAE5E;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.shop{
+    padding-top: 90px;
+    padding-left: 100px;
+    display: flex;
+    gap: 70px;
+
+}
+
+.shop p{
+    padding-top: 50px;
+}
+
+.secondpic{
+     height: 280px;
+    width: 450px;
+    border-radius: 10px;
+
+}
