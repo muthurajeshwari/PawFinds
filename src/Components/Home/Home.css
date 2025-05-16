@@ -1,5 +1,6 @@
 .home{
     display: flex;
+    flex-wrap: wrap;
     gap: 60px;
 }
 .left{
@@ -24,6 +25,7 @@
     font-size: 20px;
     font-weight: bold;
     margin-top: 20px;
+    cursor: pointer;
 }
 .mainpic{
     height: 350px;
@@ -35,6 +37,7 @@
 }
 .works{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center; 
     align-items: center;
@@ -43,6 +46,7 @@
     color: #FCAE5E;
 
 }
+
 
 .dos .pic{
     height: 150px;
@@ -60,6 +64,7 @@
 .doings{
     padding-top: 70px;   
     display: flex;
+    flex-wrap: wrap;
     justify-content: center; 
     align-items: center;  
 
@@ -74,6 +79,7 @@
     padding-top: 90px;
     padding-left: 100px;
     display: flex;
+    flex-wrap: wrap;
     gap: 70px;
 
 }

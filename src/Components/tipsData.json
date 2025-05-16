@@ -1,0 +1,59 @@
+{
+  "tips": [
+    {
+      "img": "https://media.istockphoto.com/id/1795133707/photo/pet-owner-stroking-his-old-cat-and-dog-together.jpg?b=1&s=612x612&w=0&k=20&c=wX9azeZy2gV7sIUW75j3FKkdtjlPB0hYOTmQjPiDNTE=",
+      "title": "Which Pet is Right for You?",
+      "content": "Not every pet suits every person. Dogs need time and attention, while cats are more independent. Birds and fish require less interaction but still need care. Think about your lifestyle, home space, and energy levels. This helps you make a thoughtful, lasting choice."
+    },
+    {
+      "img": "https://media.istockphoto.com/id/1190886800/photo/little-dog-trying-to-get-attention-of-young-woman-who-is-doing-some-freelance-work-from-home.jpg?b=1&s=612x612&w=0&k=20&c=TWlPHxffuQJzjLdha6wM8Fr1KjSoIexACoqZHXxutNo=",
+      "title": "First-Time Pet Owner Checklist",
+      "content": "Starting your pet journey? You’ll need the basics: quality food, a cozy bed, toys, grooming tools, and a vet contact. Vaccinations and ID tags are must-haves. Preparing these essentials early ensures a smooth transition. It also shows your pet they’re already loved."
+    },
+    {
+      "img": "https://media.istockphoto.com/id/1370511233/photo/young-woman-working-from-home-with-a-boston-terrier-dog-freelancer-businesswoman-using-laptop.jpg?b=1&s=612x612&w=0&k=20&c=kFOq2pYzhgPt_nUNCmANmxpqupXbdOy7uKdANTZvJWw=",
+      "title": "Time & Budget Considerations",
+      "content": "Pets aren’t just cute—they require time and money. Factor in food, grooming, vet bills, and your availability for walks or play. Unexpected costs can arise too. Planning realistically keeps both you and your pet happy in the long run."
+    },
+    {
+      "img": "https://images.pexels.com/photos/28380666/pexels-photo-28380666/free-photo-of-young-couple-with-dogs-relaxing-at-home.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Preparing Your Home for a Pet",
+      "content": "Pets explore, chew, and shed! Make your home safe by securing wires, removing toxins, and setting up their space. Add comfort with beds, scratch posts, or kennels. The more welcoming your home, the faster your pet settles in."
+    }
+  ],
+  "features": [
+  { 
+    "title": "Healthy Pet",
+    "description": "Being pet lovers our self, we understand the importance of a pet's health. All our puppies are at least eight weeks old when they are sent to you.",
+    "img": "https://media.istockphoto.com/id/518211348/photo/dog-and-cat-eating-natural-food-from-a-bowl.jpg?b=1&s=612x612&w=0&k=20&c=dWtQq7h0Wp7KgnsVi7ytFKqLFlAQkKIm0n-ZPGc2h5U=" 
+  },
+  { 
+    "title": "Vaccinated & Insured Pet",
+    "description": "To make the initial experience with your furry family member smooth and trouble-free, we make sure that all our puppies are up-to-date on their vaccinations and are insured.",
+    "img": "https://media.istockphoto.com/id/513595916/photo/vets-giving-shot-to-a-puppy.jpg?b=1&s=612x612&w=0&k=20&c=d9ylGB4WXrhqeYES_T0tfEo1gCrF9tYduXh0RWxNDO0=" 
+  },
+  { 
+    "title": "Responsible Breeders",
+    "description": "All of our puppies are raised by responsible breeders who consider their pet’s health their foremost priority. We have zero tolerance for puppy mills and all our breeders are pet lovers just like us who are looking for the best homes for their fur babies.",
+    "img": "https://images.pexels.com/photos/7516172/pexels-photo-7516172.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  { 
+    "title": "Easy and Hassle-free Process",
+    "description": "With PawFinds, your journey with a pet starts with no difficulties. You have access to adorable pets looking for furever homes nationwide. You can receive guidance regarding any pet-related aspect in the comfort of your home.",
+    "img": "https://images.pexels.com/photos/5732533/pexels-photo-5732533.jpeg?auto=compress&cs=tinysrgb&w=600" 
+  },
+  { 
+    "title": "Expert Pet Guidance",
+    "description": "Our pet experts will guide you throughout your journey as a pet parent and will always be at your beck and call there to help you.",
+    "img": "https://media.licdn.com/dms/image/v2/D4E10AQH50hbWrX-zIA/image-shrink_800/B4EZYhMs_6HgAg-/0/1744313703715?e=2147483647&v=beta&t=45-bm6iJKgqeNjtcQuS7awQJn7kHis3dUPkFwGOMdDM" 
+  },
+  { 
+    "title": "Happy Pet Parenting",
+    "description": "We don’t stop at providing you with a furry family member and guidance related to it. We are also connected with service providers such as veterinarians, trainers, groomers, and hostels.",
+    "img": "https://nationaltoday.com/wp-content/uploads/2021/02/National-Pet-Parents-Day-1.jpg" 
+  }
+]
+
+}
+
+
