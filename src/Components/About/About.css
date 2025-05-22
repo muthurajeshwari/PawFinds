@@ -1,0 +1,59 @@
+.features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  
+  .card {
+    border-radius: 20px;
+    /* border: 2px solid black;  */
+    padding: 24px;
+  }
+
+  .section-heading{
+    color: #FCAE5E;
+    text-align:center;
+    padding-top: 50px;
+}
+h3{
+    color: #FCAE5E;
+
+}
+.pics{
+    height: 300px;
+    width: 80%;
+}
+.feature-pics{
+    height: 300px;
+    width: 100%;
+
+}
+.tips{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 160px;
+    
+
+}
+.tips button{
+    width: 80%;
+    background-color: #FCAE5E;
+    color: white;
+    border: none;
+    height: 40px;
+    font-size: 15px;
+}
+.tips-card{
+    /* background-color: black; */
+    border-radius: 16px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 520px; 
+}
