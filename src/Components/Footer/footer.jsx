@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-left">
         <h2>"Adopt, don't shop. Give a pet a second chance at life."</h2>
-        <div className="social-icons">
+        <div className="icons">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png"
             alt="Facebook"
@@ -42,10 +42,16 @@ const Footer = () => {
         </div>
         <div className="footer-column">
           <h4>Contact</h4>
-          <img src="https://pngimg.com/d/phone_PNG48933.png" alt="Contact" />
+          <img
+            src="https://cdn-icons-png.flaticon.com/128/552/552489.png"
+            alt="Contact"
+          />
           <span>(+91)9345632123</span>
           <br></br>
-          <img src="https://pngimg.com/d/gmail_logo_PNG6.png" alt="Email" />
+          <img
+            src="https://cdn-icons-png.flaticon.com/128/6806/6806987.png"
+            alt="Email"
+          />
           <span>pawfinds@adoppet.org</span>
         </div>
       </div>

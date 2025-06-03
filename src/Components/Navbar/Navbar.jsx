@@ -1,34 +1,59 @@
 import React from "react";
 import "./navbar.css";
 import logo from "../../Assets/logo.png";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
     <header className="header">
       <div className="name">
         <img src={logo} alt="logo" className="img" />
-        <Link to="/" className="logo">
+        <NavLink to="/home" className="logo">
           PawFinds
-        </Link>
+        </NavLink>
       </div>
 
       <nav className="navbar">
-        <Link to="/" className="nav-link">
+        <NavLink
+          to="/home"
+          className={({ isActive }) =>
+            isActive ? "nav-link active" : "nav-link"
+          }
+        >
           Home
-        </Link>
-        <Link to="/pets" className="nav-link">
+        </NavLink>
+        <NavLink
+          to="/pets"
+          className={({ isActive }) =>
+            isActive ? "nav-link active" : "nav-link"
+          }
+        >
           Adopt a Pet
-        </Link>
-        <Link to="/about" className="nav-link">
+        </NavLink>
+        <NavLink
+          to="/about"
+          className={({ isActive }) =>
+            isActive ? "nav-link active" : "nav-link"
+          }
+        >
           About PawFinds
-        </Link>
-        <Link to="/contact" className="nav-link">
+        </NavLink>
+        <NavLink
+          to="/contact"
+          className={({ isActive }) =>
+            isActive ? "nav-link active" : "nav-link"
+          }
+        >
           Contact
-        </Link>
-        <Link to="/login" className="nav-link">
+        </NavLink>
+        <NavLink
+          to="/login"
+          className={({ isActive }) =>
+            isActive ? "nav-link active" : "nav-link"
+          }
+        >
           Login
-        </Link>
+        </NavLink>
       </nav>
     </header>
   );

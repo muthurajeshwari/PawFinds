@@ -1,0 +1,100 @@
+.adoption-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  background-color: #f5f5f5;
+  background-image: url("https://png.pngtree.com/background/20230317/original/pngtree-corgi-dog-cute-cartoon-picture-image_2148669.jpg");
+  height: 900px; 
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
+.adoption-form {
+  display: flex;
+  gap: 1rem;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);  
+  width: 900px;
+ margin-bottom: 100px;
+ opacity: 0.9;
+}
+
+.adoption-form label {
+  display: flex;
+  font-size: 15px;
+  font-weight: bold;
+  color: #333;
+ 
+}
+
+.adoption-form input {
+  padding: 0.5rem;
+  margin-top: 0.25rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 13px;
+
+}
+
+.adoption-form h2{
+color: #FCAE5E;
+size: 10px;
+padding-left: 300px; 
+}
+
+
+
+ .pet-detail,
+.user-detail {
+  flex: 1;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.form-columns {
+  display: flex;
+  gap: 1rem;
+  width: 100%;
+}
+.form-img{
+  height: 150px;
+  width: 150px;
+  border-radius: 10%;
+ margin-left: 100px;
+
+}
+.pet-detail label{
+  /* background-color: red; */
+   padding-top: 10px;
+
+}
+.user-detail label{
+  /* background-color: yellow; */
+   padding-top: 10px;
+
+
+}
+.form-btn{
+  background:#FCAE5E;
+   
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    cursor: pointer;
+    width: 30%;
+    height: 40px;
+    margin-left: 250px
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+  margin-left: 10px;
+}

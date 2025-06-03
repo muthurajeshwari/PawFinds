@@ -1,0 +1,73 @@
+.login-container {
+ 
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+}
+
+.login-card {
+  display: flex;
+  background-color: white;
+  border-radius: 24px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+
+  height: 500px;
+  width: 900px;
+}
+
+.login-image {
+  flex: 1;
+  background: url('https://images.pexels.com/photos/9632589/pexels-photo-9632589.jpeg?auto=compress&cs=tinysrgb&w=600') no-repeat center;
+  background-size: cover;
+  width: 300px;
+}
+
+.login-form {
+  flex: 1;
+  padding: 48px;
+}
+
+h2 {
+  font-size: 32px;
+  color:#FCAE5E;
+  margin-bottom: 16px;
+padding-left: 130px;
+}
+
+.input {
+  margin-bottom: 19px;
+}
+
+.input label {
+  margin-bottom: 8px;
+  color: #4b5563;
+  font-size: 14px;
+}
+
+.input input {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+}
+
+.submitbtn {
+  width: 90%;
+  padding: 12px;
+  background-color: #FCAE5E;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.togglebtn {
+  background: none;
+  border: none;
+  color: #FCAE5E;
+  cursor: pointer;
+  font-weight: 600;
+}

@@ -3,8 +3,8 @@
     left: 0;
     width: 100%;
     padding: 20px 50px;
-    /* background: blueviolet; */
     display: flex;
+      flex-wrap: wrap; 
     justify-content: space-between;
     align-items: center;
     z-index: 100;
@@ -13,7 +13,6 @@
   .img{
     height: 80px;
     width: 120px;
-    /* margin-right: 20px; */
   }
 
   .name{
@@ -27,6 +26,12 @@
     color: black;
     font-weight: 700;
   }
+
+  .navbar {
+  display: flex;
+  flex-wrap: wrap;  
+}
+
   .navbar a {
     position: relative;
     font-size: 18px;
@@ -49,3 +54,13 @@
     width: 100%;
   }
   
+.nav-link {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.nav-link.active {
+  color: #FCAE5E;
+  font-weight: bold;
+}
